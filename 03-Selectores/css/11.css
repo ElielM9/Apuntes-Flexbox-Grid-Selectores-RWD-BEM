@@ -1,0 +1,8 @@
+/* Primer hijo de una lista */
+ul li:first-child {
+    border: 2px solid red;
+}
+
+ul li:first-of-type {
+    color: blue;
+}

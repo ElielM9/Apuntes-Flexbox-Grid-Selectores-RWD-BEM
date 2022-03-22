@@ -1,0 +1,21 @@
+/* Elemento en especifico */
+ul li:nth-child(2) {
+    border: 2px solid blue;
+}
+/* Multiplica n * n + 1 */
+ul li:nth-child(2n + 1) {
+    color: red;
+}
+/* Impares */
+ul li:nth-child(odd) {
+    color: purple;
+}
+/* Pares */
+ul li:nth-child(even) {
+    color: blue;
+}
+
+/* Multiplica n * n + 1 */
+ul li:nth-child(5n + 1) {
+    color: red;
+}

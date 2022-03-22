@@ -1,0 +1,8 @@
+/* Atributo */
+a[href="http://www.google.com"] {
+    color: red;
+}
+
+input[type="tel"] {
+    color: purple;
+}

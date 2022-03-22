@@ -1,0 +1,16 @@
+/* Tamaños estandar */
+
+/* Telefono en horizontal */
+@media(min-width: 550px) {}
+
+/* Tablet */
+@media(min-width: 768px) {}
+
+/* Laptop pwqueña */
+@media(min-width:1024px) {}
+
+/* Laptop */
+@media(min-width: 1200px) {}
+
+/* Mas */
+@media(min-width: 1600px) {}

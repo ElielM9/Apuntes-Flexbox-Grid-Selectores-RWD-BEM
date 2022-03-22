@@ -1,0 +1,16 @@
+/* Selector de Dos clases */
+.texto {
+    background-color: rebeccapurple;
+}
+
+.azul {
+    color: blue;
+}
+
+.mayusculas{
+    text-transform: uppercase;
+}
+
+.texto.mayusculas{
+    font-size: 10rem;
+}

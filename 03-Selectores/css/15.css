@@ -1,0 +1,11 @@
+/* Primer letra y linea */
+/* Selecciona la primer letra */
+.primer-letra::first-letter {
+    font-size: 2rem;
+}
+
+/* Seleccionamos la primer linea */
+.primer-linea::first-line {
+    font-size: 4rem;
+}
+

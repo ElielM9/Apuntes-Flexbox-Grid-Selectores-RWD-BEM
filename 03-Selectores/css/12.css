@@ -1,0 +1,9 @@
+/* Ultimo elemento de una lista */
+ul li:last-child {
+    border: 2px solid blue;
+}
+
+ul li:last-of-type{
+    color: red;
+}
+

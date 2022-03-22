@@ -1,0 +1,23 @@
+/* Desktop First */
+.oferta {
+    background-color: #0044;
+    padding: 2rem;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 60rem;
+}
+
+.precio {
+    font-size: 6rem;
+    margin: 0;
+}
+
+@media(max-width: 600px) {
+    .oferta {
+        max-width: 100%;
+    }
+
+    .precio {
+        font-size: 3rem;
+    }
+}

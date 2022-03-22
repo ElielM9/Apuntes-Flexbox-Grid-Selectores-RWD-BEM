@@ -1,0 +1,9 @@
+/* Etiqueta y Clase */
+.texto {
+    background-color: yellow;
+}
+
+div.texto {
+    background-color: steelblue;
+    color: whitesmoke;
+}

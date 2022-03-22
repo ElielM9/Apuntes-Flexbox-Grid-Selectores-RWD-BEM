@@ -1,0 +1,5 @@
+/* Seleccionar todo excepto uno o unos */
+p:not(.texto):not(.oferta) {
+    color: red;
+}
+
